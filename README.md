@@ -17,6 +17,19 @@ This project ranks candidates based on their suitability for a Senior AI Enginee
 - Recruiter Response Rate (10%)
 - Location Bonus (10%)
 
+
+## Repository Structure
+
+- main.py
+- scoring.py
+- candidate_parser.py
+- check.py
+- top100_candidates_v2.csv
+
+## Output
+
+The system processes 100,000 candidate profiles and generates the top 100 ranked candidates saved in top100_candidates_v2.csv for a Senior AI Engineer role.
+
 ## Output
 Top 100 ranked candidates saved in top100_candidates_v2.csv
 
