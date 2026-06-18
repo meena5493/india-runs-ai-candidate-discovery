@@ -18,7 +18,7 @@ This project ranks candidates based on their suitability for a Senior AI Enginee
 - Location Bonus (10%)
 
 ## Output
-Top 100 ranked candidates saved in top100_candidates.csv
+Top 100 ranked candidates saved in top100_candidates_v2.csv
 
 ## Run
 
