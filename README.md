@@ -30,9 +30,6 @@ This project ranks candidates based on their suitability for a Senior AI Enginee
 
 The system processes 100,000 candidate profiles and generates the top 100 ranked candidates saved in top100_candidates_v2.csv for a Senior AI Engineer role.
 
-## Output
-Top 100 ranked candidates saved in top100_candidates_v2.csv
-
 ## Run
 
 pip install pandas numpy tqdm
